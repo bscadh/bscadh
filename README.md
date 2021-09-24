@@ -6,9 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-I am Chadrack Besongo and write [computer programs](https://scadhsong.com/projects/) :computer:. On spare time 🏖️, I involve as a [CTA](https://scadhsong.com/about/#mitx) to help learners finding their voices in programming :computer:, play guitar :guitar:, or write 🖋️ for [my blog](https://scadhsong.com).
+I am Chadrack Besongo.<br>
+A programmer and a friend with an interest in typesetting and online learning tools.
 
-- 🔭 I’m currently working on kiarasnotes.com
+- 🔭 Currently, I’m working on kiarasnotes.com
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 I am Chadrack Besongo.<br>
 A programmer and a friend with an interest in typesetting and online learning tools.
 
-- 🔭 Currently, I’m working on [kiarasnotes.com](https://kiarasnotes.org)
+- 🔭 Currently, I’m working on [kiarasnotes.org](https://kiarasnotes.org)
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
